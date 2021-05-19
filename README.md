@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sonic@op.pl**
 
-- ⚡ Fun fact **Yes, I know all**
+- ⚡ Fun fact **Yes, I know all**(sarcasm)
 
 
 <h3 align="left">Languages and Tools:</h3>
